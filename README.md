@@ -17,5 +17,9 @@ Features Wishlist for Volunteers:
 </ul>
 <hr>
 Features Wishlist for RMs:
+</ul>
+<hr>
+Features Wishlist for School Administrators:
 <ul>
+  <li>Easy methond of signing MOU </li>
 </ul>
